@@ -1,6 +1,0 @@
-### Figure 4
-
- - To plot Figure 4, run heatmap.m. To mitigate the code computationally expensive code we ran heatmap.m, in 4 batches of 10 simulation twice and 20 simulations twice. 
- - The simulations are saved as batchX_nsim.mat, where X: batch number and nsim: number of simulations.
- - The batch files were processed with batch_concat.m and final parameter values and percentage in up state are stored as allY.mat, where Y: parameter name.
- - To finally plot the heatmaps, run the jupyter file Figure 3.ipynb
